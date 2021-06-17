@@ -17,7 +17,7 @@ var jumpsound,bgsound,mousesound,gameoversound,barksound
 
 function preload()
 {
-  bgImage=loadImage("bg.jpg")
+  bgImage=loadImage("bg1.jpg")
    
   tomImg=loadAnimation("tom/t1.png","tom/t2.png","tom/t3.png","tom/t4.png","tom/t5.png","tom/t6.png",
   "tom/t7.png","tom/t8.png");
